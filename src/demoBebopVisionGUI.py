@@ -34,7 +34,7 @@ def demo_user_code_after_vision_opened(bebopVision, args):
     #removed the user call to this function (it now happens in open_video())
     #bebopVision.start_video_buffering()
 
-    bebop.safe_takeoff(5)
+#    bebop.safe_takeoff(5)
 
     # skipping actually flying for safety purposes indoors - if you want
     # different pictures, move the bebop around by hand
