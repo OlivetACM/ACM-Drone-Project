@@ -1,0 +1,4 @@
+pyparrot==1.5.10
+opencv-python==4.0.0.21
+zeroconf==0.21.3
+PyQt5==5.11.3
