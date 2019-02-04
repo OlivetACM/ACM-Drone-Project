@@ -1,0 +1,2 @@
+class BebopError(Exception):
+    pass
